@@ -6,3 +6,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/gzosp_guacamole.mk
+
+COMMON_LUNCH_CHOICES := \
+    gzosp_guacamole-userdebug
